@@ -3,7 +3,7 @@
 
 # # Mortes por Tuberculose
 # 
-# Letícia Fontenelle, 10 de Março.  
+# Letícia Fontenelle, 11 de Março.  
 # 
 # 
 # Dentro dos Objetivos de Desenvolvimento do Milênio para redução da pobreza e as doenças, diminuição da desigualdade de gênero e a sustentabilidade ambiental entre outros. 
@@ -12,19 +12,20 @@
 # 
 # Para obter mais informações, consulte a página da Organização Mundial da Saúde (OMS) <http://www.who.int/gho/tb/en/>.
 # 
-# Conforme a amostra populacional e o número de mortes por tuberculose em alguns países durante um ano, as seguintes mensurações forma extraídas:
+# Conforme amostra populacional e o número de mortes por tuberculose em alguns países durante um ano, as seguintes mensurações forma extraídas:
 # 
 # - Quantitativo em número total, máximo, mínimo e médio de mortes para esse ano.
 # - Dentre os países elencados, os países com mais ou menos mortes.
-# - Taxa de mortalidade para cada país.                                                                                        - - - Países com taxa de mortalidade mais baixa e mais alta. 
+# - Taxa de mortalidade para cada país.                                                                                    
+# - Países com taxa de mortalidade mais baixa e mais alta. 
 # 
 # Usou-se a taxa de mortalidade, pois permite uma melhor comparação de países com tamanhos populacionais diferentes.
 
-# ## Os dados
+# ## Os Dados
 # 
 # Os dados correspondem a população total e número total de mortes por TB (excluídos os casos de HIV) em 2013 para cada um dos BRICS (Brasil, Rússia, Índia, China, África do Sul) e países de língua portuguesa.
 # 
-# Fonte dos dados extraídos em 07/2015 <http://apps.who.int/gho/data/node.main.POP107?lang=en> (população) e <http://apps.who.int/gho/ data/node.main.1317?lang=en> (mortes). 
+# Fonte dos dados extraídos <http://apps.who.int/gho/data/node.main.POP107?lang=en> (população) e <http://apps.who.int/gho/ data/node.main.1317?lang=en> (mortes). 
 # 
 # A coleta foi feita por meio de arquivo Excel.
 
@@ -107,7 +108,7 @@ data
 
 # ## Conclusão
 # 
-# Para os países como Brasil, Rússia, Índia, China, África do Sul (BRICS) e os países de língua portuguesa, estes obtiveram um total de cerca de 350 mil óbitos por Tuberculose em 2013. A mediana demonstra que metade desses países teve menos de 5.650 óbitos. A média muito mais elevada (mais de 29.000) mostra que alguns países tiveram um número muito alto. Os menos impactados foram São Tomé e Príncipe e a Guiné Equatorial, com 18 e 67 mortos respetivamente, e os mais impactados foram a China e a Índia com 41 mil e 240 mil mortos num só ano. No entanto, tendo em conta a dimensão da população, os menos impactados foram Portugal e Brasil com menos de 2,2 mortos por 100 mil habitantes, e os mais impactados foram a Guiné-Bissau e Timor-Leste com mais de 70 mortos por 100 mil habitantes.
+# Para os países como Brasil, Rússia, Índia, China, África do Sul (BRICS) e os países de língua portuguesa, os mesmos obtiveram um total de cerca de 350 mil óbitos por Tuberculose em 2013. A mediana demonstra que metade desses países teve menos de 5.650 óbitos. A média muito mais elevada (mais de 29.000) mostra que alguns países tiveram um número muito alto. Os menos impactados foram São Tomé e Príncipe e a Guiné Equatorial, com 18 e 67 mortos respetivamente, e os mais impactados foram a China e a Índia com 41 mil e 240 mil mortos num só ano. No entanto, tendo em conta a dimensão da população, os menos impactados foram Portugal e Brasil com menos de 2,2 mortos por 100 mil habitantes, e os mais impactados foram a Guiné-Bissau e Timor-Leste com mais de 70 mortos por 100 mil habitantes.
 # 
 # Ressaltando que os valores são estimativas, e que os países escolhidos são uma pequena amostra de todos os países do mundo. No entanto, eles permitem chegar a conclusão de que a tuberculose ainda é uma das principais causas de mortes e que há uma grande disparidade entre os países, com diversos deles sendo elevadamente impactados.
 
